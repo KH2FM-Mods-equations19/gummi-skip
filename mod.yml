@@ -1,0 +1,9 @@
+title: Gummi Skip (1.0.0)
+originalAuthor: Denhonator, cahudson94, deathofall84
+description: KH2 Lua Library port of the Gummi Skip script from Denhonator/KHPCSpeedrunTools.
+assets:
+- name: scripts/2fmGummiSkip.lua
+  platform: pc
+  method: copy
+  source:
+  - name: 2fmGummiSkip.lua
